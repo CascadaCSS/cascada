@@ -1,4 +1,4 @@
-package com.alchemistscode.cascada.view;
+package com.alchemistscode.cascada.view.panels;
 
 import java.awt.Dimension;
 

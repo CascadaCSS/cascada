@@ -6,6 +6,7 @@ import javax.swing.JFrame;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.alchemistscode.cascada.helpers.FileHelper;
+import com.alchemistscode.cascada.view.panels.PrincipalPanel;
 
 public class PrincipalFrame extends JFrame {
 	/**
